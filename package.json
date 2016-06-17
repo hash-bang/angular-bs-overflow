@@ -1,0 +1,27 @@
+{
+  "name": "angular-bs-overflow",
+  "version": "1.0.0",
+  "description": "AngularJS + Bootstrap overflow text support",
+  "main": "angular-bs-overflow.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/angular-bs-overflow.git"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "tooltip",
+    "overflow",
+    "ui"
+  ],
+  "author": "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/angular-bs-overflow/issues"
+  },
+  "homepage": "https://github.com/hash-bang/angular-bs-overflow#readme",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}

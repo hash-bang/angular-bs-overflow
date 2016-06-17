@@ -1,0 +1,11 @@
+.tooltip-overflow {
+	pointer-events: none;
+	opacity: 1;
+}
+
+.tooltip-overflow > div.tooltip-inner {
+	border-radius: 5px;
+	text-align: left;
+	white-space: nowrap;
+	max-width: none
+}
